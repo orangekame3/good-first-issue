@@ -1,0 +1,101 @@
+{
+  "org": "oqtopus-team",
+  "query": "org:oqtopus-team is:issue is:open label:\"good first issue\"",
+  "totalCount": 4,
+  "fetchedCount": 4,
+  "generatedAt": "2026-07-09T01:34:03.654Z",
+  "issues": [
+    {
+      "id": 4761340861,
+      "number": 1127,
+      "title": "[Style]: Unwanted space should be deleted on the Analysis page.",
+      "url": "https://github.com/oqtopus-team/qdash/issues/1127",
+      "repository": "oqtopus-team/qdash",
+      "author": "dvlpwork",
+      "labels": [
+        {
+          "name": "good first issue",
+          "color": "7057ff",
+          "description": "Good for newcomers"
+        },
+        {
+          "name": "style",
+          "color": "5105C1",
+          "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, et"
+        }
+      ],
+      "comments": 0,
+      "createdAt": "2026-06-28T06:32:34Z",
+      "updatedAt": "2026-07-03T11:09:43Z"
+    },
+    {
+      "id": 4761489348,
+      "number": 1128,
+      "title": "[Style]: A mysterious bracket appears when attempting to add a user on the admin page.",
+      "url": "https://github.com/oqtopus-team/qdash/issues/1128",
+      "repository": "oqtopus-team/qdash",
+      "author": "dvlpwork",
+      "labels": [
+        {
+          "name": "good first issue",
+          "color": "7057ff",
+          "description": "Good for newcomers"
+        },
+        {
+          "name": "style",
+          "color": "5105C1",
+          "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, et"
+        }
+      ],
+      "comments": 0,
+      "createdAt": "2026-06-28T07:41:28Z",
+      "updatedAt": "2026-07-03T10:15:40Z"
+    },
+    {
+      "id": 4143479373,
+      "number": 759,
+      "title": "[Style]: The range of selections will change in Execution page",
+      "url": "https://github.com/oqtopus-team/qdash/issues/759",
+      "repository": "oqtopus-team/qdash",
+      "author": "dvlpwork",
+      "labels": [
+        {
+          "name": "good first issue",
+          "color": "7057ff",
+          "description": "Good for newcomers"
+        },
+        {
+          "name": "style",
+          "color": "5105C1",
+          "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, et"
+        }
+      ],
+      "comments": 0,
+      "createdAt": "2026-03-26T12:33:28Z",
+      "updatedAt": "2026-04-02T03:51:49Z"
+    },
+    {
+      "id": 4143402484,
+      "number": 757,
+      "title": "[Style]: The label synchronized with the slider changes its width.",
+      "url": "https://github.com/oqtopus-team/qdash/issues/757",
+      "repository": "oqtopus-team/qdash",
+      "author": "dvlpwork",
+      "labels": [
+        {
+          "name": "good first issue",
+          "color": "7057ff",
+          "description": "Good for newcomers"
+        },
+        {
+          "name": "style",
+          "color": "5105C1",
+          "description": "Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, et"
+        }
+      ],
+      "comments": 0,
+      "createdAt": "2026-03-26T12:24:11Z",
+      "updatedAt": "2026-04-02T03:51:12Z"
+    }
+  ]
+}
