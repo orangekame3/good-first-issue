@@ -5,11 +5,19 @@ A static GitHub Pages site that collects open issues labeled `good first issue` 
 ## Local preview
 
 ```bash
-GITHUB_TOKEN=... node scripts/fetch-issues.mjs
-python3 -m http.server 8000 --directory public
+npm run fetch:issues
+npm run preview
 ```
 
 Open `http://localhost:8000` to preview the site. Use `?theme=light` or `?theme=dark` to pin the theme, or switch it from the toggle in the header.
+
+## Build
+
+```bash
+npm run build
+```
+
+The build copies the static site from `public` to `dist`. `.openai/hosting.json` uses that output for Sites-managed deployments.
 
 ## UI
 

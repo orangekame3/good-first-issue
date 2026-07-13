@@ -1,0 +1,11 @@
+{
+  "project_id": "appgprj_6a543f92b6648191994c2148946fc55c",
+  "source": {
+    "branch": "main",
+    "root": "."
+  },
+  "build": {
+    "command": "npm run build",
+    "output_directory": "dist"
+  }
+}

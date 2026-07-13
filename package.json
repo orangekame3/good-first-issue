@@ -1,0 +1,11 @@
+{
+  "name": "good-first-issue",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-static.mjs",
+    "fetch:issues": "node scripts/fetch-issues.mjs",
+    "preview": "python3 -m http.server 8000 --directory public"
+  }
+}
