@@ -36,7 +36,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_ORG: oqtopus-team
-        run: node scripts/fetch-issues.mjs
+        run: npm run fetch:issues
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

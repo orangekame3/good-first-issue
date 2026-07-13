@@ -17,7 +17,7 @@ Open `http://localhost:8000` to preview the site. Use `?theme=light` or `?theme=
 npm run build
 ```
 
-The build copies the static site from `public` to `dist`. `.openai/hosting.json` uses that output for Sites-managed deployments.
+The build copies the static site from `public` to `dist` for local verification. The GitHub Pages workflow deploys the `public` directory directly.
 
 ## UI
 
